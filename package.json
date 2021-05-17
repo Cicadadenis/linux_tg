@@ -1,0 +1,22 @@
+{
+  "name": "linux_tg_bot",
+  "version": "2.0.3",
+  "description": "Cicada3301",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://Cicadadenis/linuxbot"
+  },
+  "keywords": [
+    "node",
+    "index.js"
+  ],
+  "author": "Cicada_3301",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
