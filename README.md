@@ -1,7 +1,7 @@
 # linux_tg
 
-    $ apt install -y make python build-essential
+     apt install -y make python build-essential
 
-    $ npm install
+     npm install
 
-    $ node ....js
+     node ....js
